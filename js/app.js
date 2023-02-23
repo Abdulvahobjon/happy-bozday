@@ -6,7 +6,7 @@ var w = c.width = window.innerWidth,
 		hh = h / 2,
 		
 		opts = {
-			strings: [ 'TUG"ILGAN', 'kUNING BILAN', ' OPA! 🥳🥳🥳😎' ],
+			strings: [ 'TUG"ILGAN', 'kUNING BILAN', ' OPA!' ],
 			charSize: 30,
 			charSpacing: 35,
 			lineHeight: 40,
